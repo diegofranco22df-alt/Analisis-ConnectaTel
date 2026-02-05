@@ -18,7 +18,7 @@ Cada dataset incluye:
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/github/diegofranco22df-alt/Analisis-ConnectaTel/blob/main/S7_Version_Estudiante_Project_ConnectaTel.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](S7_Version_Estudiante_Project_ConnectaTel.ipynb)
 
 O:
 
