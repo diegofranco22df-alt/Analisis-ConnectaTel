@@ -3,7 +3,14 @@ Análisis de empresa de telecomunicaciones ConnectaTel
 
 Este repositorio contiene el análisis realizado durante el Sprint 7 del comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica, ConnectaTel.
 
-Cada dataset incluye:
+## 🧠 Objetivo del análisis
+
+- Identificar problemas de calidad de datos.
+- Explorar, limpiar y analizar los datos para construir un perfil estadístico de los clientes.
+- Detectar comportamientos atípicos y crear segmentos de clientes.
+- Identificar patrones de consumo, diseñar estrategias de retención y sugerir mejoras en los planes ofrecidos por la empresa.
+
+ El proyecto incluye 3 datasets:
 
 - plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
 - users.csv → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
@@ -31,9 +38,15 @@ O:
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
-## 🧠 Objetivo del análisis
+## Etapas de análisis realizadas
 
-- Identificar problemas de calidad de datos.
-- Explorar, limpiar y analizar los datos para construir un perfil estadístico de los clientes.
-- Detectar comportamientos atípicos y crear segmentos de clientes.
-- Identificar patrones de consumo, diseñar estrategias de retención y sugerir mejoras en los planes ofrecidos por la empresa.
+- Exploración de la estructura de los datasets.
+- Revisión de valores nulos.
+- Detección de valores inválidos y sentinels.
+- Revisión y estandarización de fechas.
+- Limpieza básica de datos.
+- Summary statistics de uso por usuario.
+- Visualización de distribuciones (uso y clientes) y outliers.
+- Segmentación de Clientes.
+- Insight Ejecutivo para Stakeholders.
+
