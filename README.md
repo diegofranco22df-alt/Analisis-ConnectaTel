@@ -36,7 +36,7 @@ O:
 
 ## 🧠 Objetivo del análisis
 
-- Identificar problemas de calidad de datos
-- Construir un pipeline de limpieza reproducible
-- Analizar comportamientos, distribuciones y outliers
-- Generar insights para el equipo de Estrategia e Integración de ConnectaTel
+- Identificar problemas de calidad de datos.
+- Explorar, limpiar y analizar los datos para construir un perfil estadístico de los clientes.
+- Detectar comportamientos atípicos y crear segmentos de clientes.
+- Identificar patrones de consumo, diseñar estrategias de retención y sugerir mejoras en los planes ofrecidos por la empresa.
