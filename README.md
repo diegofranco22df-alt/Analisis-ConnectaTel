@@ -18,7 +18,7 @@ Este repositorio contiene el análisis realizado durante el Sprint 7 del comport
 
 ## 📂 Contenido del repositorio
 
-- `S7 Version-Estudiante-Project-ConnectaTel.ipynb`
+- `Project-ConnectaTel.ipynb`
   → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
 
 ## ▶ Cómo abrir el notebook en Google Colab
@@ -34,7 +34,7 @@ O:
 
 ## 📘 Cómo reproducir el análisis
 
-1. Abre `S7_Version_Estudiante_Project_ConnectaTel.ipynb`
+1. Abre `Project_ConnectaTel.ipynb`
 2. Ejecuta las celdas en orden
 3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
