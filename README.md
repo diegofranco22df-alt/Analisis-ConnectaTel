@@ -8,11 +8,11 @@ Este repositorio contiene el análisis realizado a el comportamiento de los clie
 - Identificar problemas de calidad de datos.
 - Explorar, limpiar y analizar los datos para construir un perfil estadístico de los clientes.
 - Detectar comportamientos atípicos y crear segmentos de clientes.
-- Identificar patrones de consumo, diseñar estrategias de retención y sugerir mejoras en los planes ofrecidos por la empresa.
+- Identificar patrones de consumo, diseñar estrategias de retención y sugerir mejoras en los planes  ofrecidos por la empresa.
 
  El proyecto incluye 3 datasets:
 
-- plans.csv → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
+- plans.csv → información de los planes  actuales (precio, minutos incluidos, GB incluidos, costo por extra)
 - users.csv → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
 - usage.csv → detalle del uso real de los servicios (llamadas y mensajes)
 
