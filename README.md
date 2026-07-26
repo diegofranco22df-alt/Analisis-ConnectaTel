@@ -1,7 +1,7 @@
 # Analisis-ConnectaTel
 Análisis de empresa de telecomunicaciones ConnectaTel
 
-Este repositorio contiene el análisis realizado durante el Sprint 7 del comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica, ConnectaTel.
+Este repositorio contiene el análisis realizado a el comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica, ConnectaTel.
 
 ## 🧠 Objetivo del análisis
 
